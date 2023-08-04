@@ -1,0 +1,37 @@
+1 chat bot 
+2 video caling app
+3 face unlock
+4 use amazon aws s3 storage + authentication + forms 
+5 sorting visualizer 
+6. keylogger in c++ https://geekviews.tech/how-to-make-a-c-keylogger/
+7. form or login using firebase
+8. tinyurl chrome extension
+9. create a search engine google like from multiple text docs, reference from IRSW subject
+10. web scraping`
+
+----------------------------
+PROJECTS:
+nlp
+face unlock 
+web scraping 
+socket programming 
+assistant 
+cryptography 
+blockchain4
+custom library for c++
+music player 
+Augmented reality 
+research papers 
+cloud computing 
+play with apis 
+firebase
+react.js 
+CREATE ALPHABEAST WEBSITE 
+desktop assistant
+reminder application with notification
+url shortener 
+create a program that will tell me the next class
+jarvis like assistant https://www.youtube.com/watch?v=Lp9Ftuq2sVI&ab_channel=CodeWithHarry
+------------------------------
+
+
